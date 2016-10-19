@@ -16,7 +16,7 @@
 	ms.date="08/09/2016"
 	ms.author="antonba"/>
 
-# How to use Azure API Management with Virtual Networks
+# How to use Azure API Management with Virtual Networkz
 
 Azure API Management can be connected to a Virtual Network so customers can securely connect to backend services that are on-premises or otherwise inaccessbile to the public internet. Additionally, the API frontend can be made accessible only to consumers within the Virtual Network.
 
